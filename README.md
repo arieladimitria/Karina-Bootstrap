@@ -1,4 +1,4 @@
-# Karina-Bootstrap
+# Karina Bootstrap
 
 <div id="top"></div>
 <!--
