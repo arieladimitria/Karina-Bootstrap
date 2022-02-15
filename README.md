@@ -39,5 +39,6 @@ Landing Page Project for Generation Brasil Bootcamp using Bootstrap.
 * [HTML5](https://developer.mozilla.org/en-US/)
 * [Bootstrap](https://getbootstrap.com)
 * [JavaScript](https://www.javascript.com/)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
